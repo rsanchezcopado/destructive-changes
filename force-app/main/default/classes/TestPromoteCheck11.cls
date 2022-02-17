@@ -1,1 +1,0 @@
-@isTest public class TestPromoteCheck11 { @isTest static void myTest() { PromoteCheck11 tp = new PromoteCheck11(); system.assert(true);}}

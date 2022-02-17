@@ -1,1 +1,0 @@
-public class PromoteCheck5 { public PromoteCheck5(){ integer i = 0; } }
