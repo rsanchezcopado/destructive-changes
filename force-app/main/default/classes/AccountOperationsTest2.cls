@@ -12,5 +12,7 @@ public class AccountOperationsTest {
         // test test test
         Account savedAcc = [SELECT Description FROM Account WHERE Id = :result.getId()];
         System.assertEquals('Default description', savedAcc.Description);
+
+        //Line added in branch2
     }
 }
